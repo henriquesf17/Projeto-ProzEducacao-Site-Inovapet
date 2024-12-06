@@ -7,6 +7,8 @@ Participantes
 * Henrique da Silva Freitas
 * Jozimar Lima 
 
+Entregue em 02/12/2024 - Atualizações após isso foram realizadas exclusivamente por henriquesf17
+
 https://cdnjs.com/libraries/font-awesome
 
 
