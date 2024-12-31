@@ -9,6 +9,8 @@ Participantes
 
 Entregue em 02/12/2024 - Atualizações após isso foram realizadas exclusivamente por henriquesf17
 
+**SITE disponível no GITHUB PAGES em:** https://henriquesf17.github.io/Projeto-ProzEducacao-Site-Inovapet/
+
 https://cdnjs.com/libraries/font-awesome
 
 
